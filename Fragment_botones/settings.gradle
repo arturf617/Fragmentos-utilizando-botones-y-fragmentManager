@@ -1,0 +1,2 @@
+rootProject.name = "FragmentReplace"
+include ':app'
